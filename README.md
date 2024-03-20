@@ -1,4 +1,4 @@
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ee82ee&text=Olá,%20aqui%20vai%20uma%20breve%20descrição%20sobre%20o%20que%20eu%20faço%20atualmente.&reversal=false&fontAlign=50&fontAlignY=22&fontSize=20"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ee82ee"/>
 
    <div>
     <a href="https://github.com/IvanCovelliJr">
