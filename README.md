@@ -5,19 +5,19 @@
 
    <div>
     <a href="https://github.com/IvanCovelliJr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanCovelliJr&hide_border=true&title_color=ee82ee&show_icons=true&icon_color=ee82ee&theme=dark&include_all_commits=true&count_private=true"/>
-   </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanCovelliJr&hide_border=true&title_color=ee82ee&bg_color=00000000&show_icons=true&icon_color=ee82ee&theme=dark&include_all_commits=true&count_private=true"/>
+   </div> 
 
    <div>
-   <img allign="center" alt="Ivan_PY" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+   <img allign="center" alt="Ivan_PY" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/> 
 <!--    <img allign="center" alt="Ivan_HTML5" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />    
    <img allign="center" alt="Ivan_CSS3" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> -->
    </div>
 
  ##
    <div>
-    <a href = "mailto:ivanjr.jobs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
-    <a href = "https://www.linkedin.com/in/ivan-augusto-covelli-junior-b88989242" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:ivanjr.jobs@gmail.com"><img src="https://img.shields.io/badge/Gmail-ee82ee?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
+    <a href = "https://www.linkedin.com/in/ivan-augusto-covelli-junior-b88989242" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-ee82ee?logo=linkedin&logoColor=White&style=for-the-badge"><a/>
    </div>
 
 
