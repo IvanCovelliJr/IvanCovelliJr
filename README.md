@@ -1,7 +1,7 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ee82ee"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=&color=EE82EE&center=true&random=false&width=1000&lines=HELLO!+My+Name+Is+Ivan+Covelli.;I'm+18+Years+Old.;I+From+Brazil.;I'm+Studying+Database;Be+Wellcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=&color=EE82EE&center=true&random=false&width=1000&lines=HELLO!!+My+Name+Is+Ivan+Covelli.;I'm+18+Years+Old.;I+From+Brazil.;I'm+Studying+Database;Be+Wellcome!!)](https://git.io/typing-svg)
 
    <div>
     <a href="https://github.com/IvanCovelliJr">
