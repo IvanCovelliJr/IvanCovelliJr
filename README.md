@@ -1,6 +1,5 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ee82ee"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=&color=EE82EE&center=true&random=false&width=1000&lines=HELLO!+My+Name+Is+Ivan+Covelli.;I'm+18+Years+Old.;I+From+Brazil.)](https://git.io/typing-svg)
 
