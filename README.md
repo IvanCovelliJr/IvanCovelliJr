@@ -5,7 +5,7 @@
 
    <div>
     <a href="https://github.com/IvanCovelliJr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanCovelliJr&title_color=ee82ee&show_icons=true&icon_color=ee82ee&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanCovelliJr&hide_border=true&title_color=ee82ee&show_icons=true&icon_color=ee82ee&theme=dark&include_all_commits=true&count_private=true"/>
    </div>
 
    <div>
