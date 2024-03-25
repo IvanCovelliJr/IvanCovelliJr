@@ -7,8 +7,8 @@
 
   <div align="center">
    <img alt="Ivan_PY" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/> 
-<!--    <img allign="center" alt="Ivan_HTML5" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />    
-   <img allign="center" alt="Ivan_CSS3" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> -->
+   <img allign="center" alt="Ivan_HTML5" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />    
+   <img allign="center" alt="Ivan_CSS3" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
    </div>
    
 
